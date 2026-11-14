@@ -75,9 +75,9 @@ song in several playlists is there once.
   sound as it is (AAC, about 128 kbit/s); nothing is downloaded until you play it.
 - **The YouTube addon is needed, signed in.** The Spotify addon asks it to find each song and to
   play it, with its YouTube sign-in. Install it and sign in first; the app says when it isn't ready.
-- **Connecting Spotify:** press Connect Spotify, then on a phone on the same Wi-Fi open Spotify,
-  tap the devices button (the speaker icon) and pick `rex`. It is Spotify's own pairing, as a
-  speaker uses; no password is typed, and the addon reads your library only.
+- **Signing in:** press Sign in to Spotify, then enter the code the app shows at spotify.com/pair,
+  on any phone or computer. No password is typed on the TV, and the addon only reads your
+  library. Updating from version 1 asks you to sign in this way once; your music stays.
 - **A few songs at a time.** A song is looked for on YouTube once, before it shows: a sync looks for
   30 (a setting), an hour apart, so a big library fills in over a day or two. A song YouTube has
   none of is looked for again a week later. Playlists are read again when Spotify says they changed.
